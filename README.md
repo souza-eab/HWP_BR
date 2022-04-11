@@ -11,6 +11,5 @@ HARVESTED WOOD PRODUCTS
 
 ## HWP Methods.pdf
 
-3. Definition [V4_12_Ch12_HWP.pdf]
-https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_12_Ch12_HWP.pdf
+3. Definition [V4_12_Ch12_HWP.pdf](https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_12_Ch12_HWP.pdf)
 
